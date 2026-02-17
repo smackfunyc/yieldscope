@@ -684,7 +684,7 @@ export default function App() {
         <header style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 28, flexWrap: "wrap", gap: 12 }}>
           <div>
             <h1 style={{ fontSize: 28, fontWeight: 700, background: theme.gradient, WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", marginBottom: 4 }}>
-              ⟡ YieldScope
+              ⟡ Minh's Defi Yield Farm
             </h1>
             <p style={{ fontSize: 12, color: theme.textMuted }}>
               DeFi yield explorer + Hyperliquid portfolio tracker
